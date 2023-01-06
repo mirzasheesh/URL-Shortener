@@ -1,0 +1,17 @@
+Environment variables are as follows:
+
+- PROTOCOL => http or https
+- HOST => domain or host
+- PORT => open port for requests
+
+- databaseHost => database host
+- databaseName => database name
+- databaseUser => database username
+- databasePass => database password
+
+- redisHOST => redis host
+- redisPORT => redis port
+- redisPASS => redis username
+- cacheTime => cache memory expiry time in seconds
+
+- REDIRECT => domain or URL to redirect invalid 'shortURL's requests
